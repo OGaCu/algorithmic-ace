@@ -8,3 +8,4 @@ This file will be maintained under branch ```ace-dev```
 - [ ] messy string
 - [ ] the pointer trio
     - linked list, tree, graph
+- [ ] coding challenges: calculator, and I/II/III (02/06/25)
